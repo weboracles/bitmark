@@ -2,15 +2,15 @@
     "BTM_BTC": [
         {
             "marketid": "230",
-            "volume24h": "519.00000000",
-            "average24h": "0.00000031",
+            "volume24h": "18784.43922937",
+            "average24h": "0.00000023",
             "high": "0.00000031",
-            "low": "0.00000031",
-            "last": "0.00000031",
-            "highestBuy": "0.00000031",
-            "lowestSell": "0.00000037",
-            "volume24h_btc": "0.00016089",
-            "percent_change_24h": "0.00"
+            "low": "0.00000018",
+            "last": "0.00000019",
+            "highestBuy": "0.00000019",
+            "lowestSell": "0.00000034",
+            "volume24h_btc": "0.00415585",
+            "percent_change_24h": "-21.05"
         }
     ]
 }
